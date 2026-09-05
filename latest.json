@@ -1,9 +1,9 @@
 {
   "applicationId": "ru.valfex.warehouse",
-  "versionName": "1.4.0",
-  "versionCode": 1004000,
-  "apkUrl": "./VALFEX-Sklad-1.4.0.apk",
-  "sha256": "b67355eddbef1b518fdaf183ddc58709d0aab834b4eb1d8fde6aad2fa99bca28",
-  "sizeBytes": 1686039,
-  "publishedAt": "2026-09-05T15:52:19.523Z"
+  "versionName": "1.5.0",
+  "versionCode": 1005000,
+  "apkUrl": "./VALFEX-Sklad-1.5.0.apk",
+  "sha256": "ce34a2b91f572321902535c0326b8f7df3669fb4f44d094e3e804c61e776cbef",
+  "sizeBytes": 1692535,
+  "publishedAt": "2026-09-05T19:29:46.040Z"
 }
